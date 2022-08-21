@@ -1,3 +1,11 @@
+# Attirbutes, references and acknoledgements
+# 1 - https://pastebin.com/AvpuPyyd
+# 2 - https://github.com/John0Isaac/Fyyur-Webapp
+# 3 - Stackoverflow
+# 4 - 100 coding challenge telegram group
+# 5 - https://www.youtube.com/watch?v=qFUI-3V5VGk
+# 6 - Full Stack Developer Resource Materials from UDACITY
+
 #----------------------------------------------------------------------------#
 # Imports
 #----------------------------------------------------------------------------#
